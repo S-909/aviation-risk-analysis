@@ -16,7 +16,7 @@ Created calculated fields : Fatalities _ Rate = Total Fatalities / Total Acciden
 Used Python (pandas, seaborn, matplotlib) for initial analysis.
 Visualized interactive dashboards using Tableau.
 ## Interactive Dashboard.
-[My Image](images/my-image.png)
+![My Image](images.png)
 [click here to view more interactive the tableau dashboard](https://public.tableau.com/views/dashboard_17459562073240/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## Recommendation
 - Investigate years with spikes in accidents to identify causes.
