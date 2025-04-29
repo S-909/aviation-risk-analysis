@@ -17,6 +17,13 @@ Used Python (pandas, seaborn, matplotlib) for initial analysis.
 Visualized interactive dashboards using Tableau.
 ## Interactive Dashboard.
 [click here to view more interactive the tableau dashboard](https://public.tableau.com/views/dashboard_17459562073240/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## Recommendation
+- Investigate years with spikes in accidents to identify causes.
+- Prioritize safety protocols for high-risk flight purposes.
+- Enhance structural integrity to reduce fatalities during crashes.
+- Focus maintenance efforts on aircraft with higher fatality rates.
+## Conclusion.
+- The organisation should consider venturing into commercial flights for it has the fewer accidents compared to personal.
 
 
 
